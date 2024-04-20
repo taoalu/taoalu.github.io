@@ -1,11 +1,11 @@
 {
-    "name": "wartale_raffles",
-    "short_name": "wartale_raffles",
+    "name": "wartale_ranking_web",
+    "short_name": "wartale_ranking_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Application created to allow streamers to carry out raffles for items provided by the staff.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
